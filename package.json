@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rn-apple-healthkit": "^0.8.0"
+  }
+}
